@@ -1,2 +1,2 @@
 # Google Recaptcha
-Google reCAPTCHA clean & simply implemented in ASP.NET MVC.
+Google reCAPTCHA clean implementation in ASP.NET MVC.
